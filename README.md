@@ -125,10 +125,27 @@ For the purposes of this tutorial we will be leveraging the Tenable Vulnerabilit
 
 <img src="https://i.imgur.com/4uFeP8e.png">
 
+
+
 <br>
 
 
-<summary><strong>Step 12: Once finished you may export the results as you please </strong></summary>
+<summary><strong>Step 12: If you would like to tag the results from the host scan you may by clicking the Tags button on the selected scan object. You may assign a category and value to said object as well. </strong></summary>
+
+<br>
+
+
+<img src="https://i.imgur.com/2j78ViL.png">
+
+
+<img src="https://i.imgur.com/5UEzzWf.png">
+
+<br>
+
+<br>
+
+
+<summary><strong>Step 13: Once finished you may export the results as you please </strong></summary>
 
 <br>
 
