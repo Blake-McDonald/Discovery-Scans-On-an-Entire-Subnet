@@ -1,5 +1,15 @@
 <h1>Tenable: Discovery Scans On an Entire Azure Subnet </h1>
 
+<br>
+
+<h3> Video Tutorial Below </h2>
+
+[Watch the Video Tutorial](https://youtu.be/URLzBYYOi-A?si=HE-DRN5tH7_hMqwl)
+
+<hr>
+
+
+<br>
 For the purposes of this tutorial we will be leveraging the Tenable Vulnerability Managment Platform as well as the Microsoft Azure Platform. This tutorial assumes you already have a virtual network populated with hosts already provisioned in your environment. 
 
 
