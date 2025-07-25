@@ -91,3 +91,41 @@ For the purposes of this tutorial we will be leveraging the Tenable Vulnerabilit
 
 <img src="https://i.imgur.com/pteUl55.png">
 
+<br>
+
+<summary><strong>Step 10: After your Scan has completed you can then click the See Details Button on the bottom right of the selected Scan.</strong></summary>
+
+<br>
+
+
+<img src="https://i.imgur.com/pA4LnHW.png">
+
+
+<img src="https://i.imgur.com/YHW3fI3.png">
+
+<br>
+
+<summary><strong>Step 11: Within the Details section you can view the different methods taken to scan the hosts and their accompanying vulnerabilities found via the plugins used as well as see the vunlerabilities listed by assets </strong></summary>
+
+<br>
+
+
+<img src="https://i.imgur.com/ivNqo5R.png">
+
+
+<img src="https://i.imgur.com/4uFeP8e.png">
+
+<br>
+
+
+<summary><strong>Step 12: Once finished you may export the results as you please </strong></summary>
+
+<br>
+
+
+<img src="https://i.imgur.com/gGYKqwT.png">
+
+
+<img src="https://i.imgur.com/OjA1fOC.png">
+
+<br>
