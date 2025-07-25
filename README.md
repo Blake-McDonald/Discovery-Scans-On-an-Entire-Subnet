@@ -4,7 +4,7 @@
 
 <h3> Video Tutorial Below </h2>
 
-[Watch the Video Tutorial](https://youtu.be/URLzBYYOi-A?si=HE-DRN5tH7_hMqwl)
+[Watch the Video Tutorial](https://youtu.be/Qj7f6OYwhAg)
 
 <hr>
 
